@@ -20,17 +20,17 @@ MySQL TABLES
 
 OUTPUT
 1)	The order taking entry box
- <img src="https://github.com/ayushgarg1224/python/blob/main/images/order taking entry box.png" width="128"/>
+ <img src="https://github.com/ayushgarg1224/python/blob/main/images/order taking entry box.png" width="1000" height="1000"/>
 
 2)	Error message box
- <img src="https://github.com/ayushgarg1224/python/blob/main/images/error message box.png" width="128"/>
+ <img src="https://github.com/ayushgarg1224/python/blob/main/images/error message box.png" width="1000" height="1000"/>
 
 3)	Banking entry box
-<img src="https://github.com/ayushgarg1224/python/blob/main/images/banking entry box.png" width="128"/>
+<img src="https://github.com/ayushgarg1224/python/blob/main/images/banking entry box.png" width="1000" height="1000"/>
  
 4)	Banking error message
-<img src="https://github.com/ayushgarg1224/python/blob/main/images/banking error message.png" width="128"/>
+<img src="https://github.com/ayushgarg1224/python/blob/main/images/banking error message.png" width="1000" height="1000"/>
  
 5)	Bill after successful transfer
-<img src="https://github.com/ayushgarg1224/python/blob/main/images/bill after successful transfer.png" width="128"/> 
+<img src="https://github.com/ayushgarg1224/python/blob/main/images/bill after successful transfer.png" width="1000" height="1000"/> 
 
