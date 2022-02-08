@@ -13,7 +13,7 @@ Software Requirements:
 MySQL TABLES
  
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="https://github.com/ayushgarg1224/python/blob/main/images/mysqltables.png" width="128"/>
 
 
 
